@@ -1,6 +1,6 @@
 # 📁 Projeto de Site para Cafeteria com Bootstrap
 
-Esse projeto foi desenvolvido com o Framework Bootstrap em um dos módulos da Formação CSS Web Developer da DIO. Ele possui elementos disponibilizados prontamente pelo Framework.
+Esse projeto foi desenvolvido com o Framework Bootstrap em um dos módulos da Formação CSS Web Developer da DIO. Ele possui elementos disponibilizados pelo Framework.
 
 # 📌 Linguagens / Tecnologias Utilizadas
 
